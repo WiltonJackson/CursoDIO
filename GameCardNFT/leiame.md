@@ -2,12 +2,12 @@ Download IPFS Desktop
 https://docs.ipfs.tech/install/ipfs-desktop/#windows
 
 
-##SOLIDITY##
-##GANACHE##S
-##REMIX IDE##S
-##METAMASK##S
-##IPFS##S
-##LEONARD.AI##
+##SOLIDITY
+##GANACHE
+##REMIX IDE
+##METAMASK
+##IPFS
+##LEONARD.AI
 
 
 fRAMEWORK OPENZEPELIN PARA FORNECER AS INTERFACES PADRÃO
